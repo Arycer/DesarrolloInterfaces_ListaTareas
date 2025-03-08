@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "email": "contacto@arycer.me",
+      "password": "$2a$10$lAh/xO3wULKAaGQ3lNXl4OAn/oQOVJEPw0HTih.9gSVwpjASox4t2",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Comprar víveres",
+      "description": "Comprar leche, pan, huevos y frutas en el supermercado.",
+      "imageUrl": "https://phantom-expansion.unidadeditorial.es/85027b84ff2774cce06c2e58d306813e/crop/168x163/1855x1288/resize/414/f/jpg/assets/multimedia/imagenes/2019/08/29/15670616158561.jpg",
+      "dueDate": "2025-05-09",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Hacer ejercicio",
+      "description": "Realizar una rutina de entrenamiento de 30 minutos.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0509/9552/7861/files/Como_empezar_a_hacer_ejercicio_si_eres_sedentario.jpg?v=1669707430",
+      "dueDate": "2025-03-10",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "Leer un libro",
+      "description": "Avanzar al menos 50 páginas del libro en curso.",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "dueDate": "2025-03-26",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Llamar a un amigo",
+      "description": "Ponerse al día con un amigo de la infancia.",
+      "imageUrl": "https://www.estrategiadelaseduccion.com/wp-content/uploads/2008/01/claves-para-una-primera-llamada-scaled.jpg",
+      "dueDate": "2025-03-12",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Preparar una presentación",
+      "description": "Trabajar en las diapositivas para la reunión del viernes.",
+      "imageUrl": "https://blog.prezi.com/wp-content/uploads/2023/04/GettyImages-1344913087.jpg",
+      "dueDate": "2025-03-15",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Limpiar la casa",
+      "description": "Barrer, trapear y organizar la sala y la cocina.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXhSrxkDa6GYwex2KywPaC9ZjcrqYJBaperg&s",
+      "dueDate": "2025-04-01",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "Hacer una lista de objetivos",
+      "description": "Definir las metas personales para los próximos seis meses.",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "dueDate": "2025-04-05",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "Cocinar una nueva receta",
+      "description": "Intentar hacer una receta diferente para la cena.",
+      "imageUrl": "https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe",
+      "dueDate": "2025-04-07",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "Revisar correos pendientes",
+      "description": "Organizar la bandeja de entrada y responder los correos urgentes.",
+      "imageUrl": "https://img.freepik.com/vector-gratis/enviar-concepto-correo-electronico_24908-60315.jpg?semt=ais_hybrid",
+      "dueDate": "2025-04-10",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "title": "Aprender algo nuevo",
+      "description": "Dedicar 1 hora a un curso online sobre tecnología.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHioPMwnvhOOLGPiROWMkD4Nj9H_9-W7ti_A&s",
+      "dueDate": "2025-04-15",
+      "completed": true,
+      "id": 10
+    }
+  ]
+}

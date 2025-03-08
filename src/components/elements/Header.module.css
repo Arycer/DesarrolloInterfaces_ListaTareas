@@ -1,0 +1,16 @@
+/* Header.module.css */
+.header {
+    background-color: #f8f9fa;
+    padding: 1rem 2rem;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    margin: 0;
+    font-size: 2rem;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
